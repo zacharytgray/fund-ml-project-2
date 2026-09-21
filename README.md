@@ -7,7 +7,6 @@ CS-4103 Fundamentals of Machine Learning, University of Tulsa
 - `assignment/Assignment 2.1.ipynb` and `assignment/Assignment 2.2.ipynb`, the two notebooks you complete. 2.1 covers the two text variants on Spam/Ham and 20 Newsgroups. 2.2 covers the Gaussian and Categorical variants on the handwritten digits and the Titanic passengers.
 - `data/`, the Spam/Ham emails and the Titanic passengers. The digits and 20 Newsgroups datasets download through scikit-learn the first time a notebook runs.
 - `assignment/Project 2 - Naive Bayes.pdf`, the project spec. The same PDF is posted on Harvey.
-- `assignment/Project 2 - Explainer.mp4`, a short silent animation of the four variants and how the equations in the spec fit together.
 
 ## Setup
 
